@@ -48,7 +48,26 @@ main{
     border-radius: 10px;
 }
 
+.faq{
+    margin-top: 10rem;
+}
+
+.bonus-part{
+    margin-top:100px;
+}
+
+.map-title{
+    font-weight: 700;
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.map{ margin-bottom: 3rem;
+
+}
+
 footer{
     background-color: #0B0D17;
+    font-family: 'Bebas Neue', cursive;;
 }
 
