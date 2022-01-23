@@ -7,6 +7,10 @@ header{
     
 }
 
+.logo{
+    color: #1886aa;
+}
+
 
 main{
     font-family: 'Bebas Neue', cursive;
@@ -27,3 +31,20 @@ main{
     
 
 }
+
+.price-card{
+    margin-top:10rem;
+}
+
+
+.hot{
+    background-color: red;
+  margin-left: 224px;
+  width: 24px;
+  height: 14px;
+}
+
+.hot-card{
+    border-radius: 10px;
+}
+
